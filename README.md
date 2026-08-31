@@ -36,7 +36,7 @@ GameName/
     └── ...
 ```
 
-3. Start the game.
+3. Start the game and load a save or create a new game.
 4. Press **F8** to open the editor.
 
 Press **F8** again or **Escape** to close it.
